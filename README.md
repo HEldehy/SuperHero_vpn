@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @HEldehy
-- 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Machine Learning
-- 
 
 
 <!---
